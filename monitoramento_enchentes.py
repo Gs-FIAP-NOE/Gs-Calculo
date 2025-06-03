@@ -13,7 +13,7 @@ np.set_printoptions(precision=2)
 # ===================================================
 dias = np.arange(1, 11)
 nivel_rio = np.array([0.8, 1.2, 1.6, 2.1, 2.5, 2.8, 2.6, 2.3, 1.9, 1.5])
-nivel_alerta = 1.9  # Nível para risco de enchente
+nivel_alerta = 2  # Nível para risco de enchente
 
 # ===================================================
 # 2. MODELAGEM MATEMÁTICA
