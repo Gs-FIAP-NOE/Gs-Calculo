@@ -70,8 +70,6 @@ Com base nos níveis diários observados, os alertas são classificados da segui
 - ⚠ **Alerta 1 (Risco Moderado)**: Entre **2,0 m** e **2,5 m**
 - 🚨 **Alerta 2 (Emergência)**: Acima de **2,5 m**
 
----
-
 ## 💻 Tecnologias Utilizadas
 
 - Python (modelagem matemática)
@@ -79,7 +77,21 @@ Com base nos níveis diários observados, os alertas são classificados da segui
 - GitHub para versionamento
 - Documentação científica
 
----
+## 📦 Dependências
+
+Para executar a simulação e visualização do modelo, certifique-se de ter as seguintes bibliotecas Python instaladas:
+
+```bash
+pip install numpy matplotlib
+```
+
+### Bibliotecas utilizadas:
+
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+from matplotlib.patches import Rectangle
+```
 
 ## 👥 Equipe
 
