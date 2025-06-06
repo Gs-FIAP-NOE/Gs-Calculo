@@ -14,8 +14,6 @@
 
 # 🌊 NOÉ - Plataforma de Prevenção de Enchentes
 
-Muito antes da tempestade, vem NOÉ!
-
 ## 📃 Sobre o Projeto
 
 O projeto **NOÉ** foi desenvolvido como parte da disciplina *Differentiated Problem Solving* do curso de Engenharia de Software da FIAP. A proposta tem como foco o **monitoramento de rios e comportas**, com alertas preventivos de **enchentes** no rio Itajaí-Açu.
