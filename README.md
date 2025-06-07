@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Gs-FIAP-NOE/Gs-FrontEnd-WebDev/raw/main/src/assets/img/logo-light.png" width="200px">
+<img src="https://github.com/Gs-FIAP-NOE/Gs-Front-Web/raw/main/src/assets/img/logo-light.png" width="200px">
 
 </div>
 
@@ -8,9 +8,8 @@
 
 ### Muito Antes Da Tempestade, Vem NOÉ!
 
-# [noe.com.br](https://gs-fiap-noe.github.io/Gs-FrontEnd-WebDev/)
+# [noe.com.br](https://gs-fiap-noe.github.io/Gs-Front-Web/)
 </div>
-
 
 # 🌊 NOÉ - Plataforma de Prevenção de Enchentes
 
